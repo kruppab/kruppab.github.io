@@ -40,7 +40,7 @@ const config = {
       ],
     },
     {
-      type: 'radio',
+      type: 'dropdown',
       title: 'Type: ',
       columnHeader: 'Type', // Case sensitive - must match spreadsheet entry
       listItems: ['compound feed producer',
