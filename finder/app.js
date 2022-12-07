@@ -456,7 +456,7 @@ map.on('load', () => {
           },
           paint: {
             'circle-radius': 5, // size of circles
-            'circle-color': ["match",["get", "Type"],["compund feed producer"],"#76b72a",["primary collector"],"#008bd2",["primary processor"],"#ffdd94",["oil mill"],"#7c7c7c","#d9d2ca"] // color of circles
+            'circle-color': ["match",["get", "Type"],["compund feed producer"],"#76b72a",["primary collector"],"#008bd2",["primary processor"],"#ffdd94",["oil mill"],"#7c7c7c","#d9d2ca"], // color of circles
             'circle-stroke-color': 'white',
             'circle-stroke-width': 1,
             'circle-opacity': 0.7,
