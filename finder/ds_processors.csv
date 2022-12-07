@@ -1,0 +1,256 @@
+Number,Company,Address,Latitude,Longitude,Location,Country,Type,Certification
+1,AGROA Raiffeisen eG (ehm. RKZ),"Raiffeisenzentrum 11, 75031 Eppingen, Germany",49.1341583,8.8980607,Eppingen,Germany,compound feed producer,Certified
+2,Agrodjole d.o.o.,"Karadorda Petrovica 96, 35220 Ribare, Serbia",43.9977166,21.2894107,Ribare,Serbia,compound feed producer,Certified
+3,Aigner Matthias,"Götzing 2, 84337 Schönau, Germany",48.48711,12.8009468,Schönau,Germany,compound feed producer,Certified
+4,Amrein Futtermühle AG,"Industriestrasse 18, 6203 Sempach Station, Switzerland",47.1149196,8.2061179,Sempach Station,Switzerland,compound feed producer,Certified
+5,Animal Commerce d.o.o.,"Bulevar Arsenija Carnojevia 54a, 11070 Novi Beograd, Serbia",44.8115508,20.4237947,Novi Beograd,Serbia,compound feed producer,Certified
+6,beweka Kraftfutterwerk GmbH,"Hafenstraße 39, 74076 Heilbronn, Germany",49.1502449,9.2048152,Heilbronn,Germany,compound feed producer,Certified
+7,Egli-Mühlen AG,"Schürmatte 4, 6244 Nebikon, Switzerland",47.1954968,7.9750209,Nebikon,Switzerland,compound feed producer,Certified
+8,Fixkraft-Futtermittel GmbH,"Donaustraße 3, 4470 Enns, Austria",48.2340997,14.5135413,Enns,Austria,compound feed producer,Certified
+9,ForFarmers Beelitz GmbH,"Industriestraße 7, 49377 Vechta-Langförden, Germany",52.7913085,8.2532107,Vechta-Langförden,Germany,compound feed producer,Certified
+10,Franz Forstner GmbH & Co. KG Mühle und Agrarhandel,"Mühlenstrasse 30, 4502 St. Marien, Austria",48.1410004,14.2807571,St. Marien,Austria,compound feed producer,Certified
+11,Garant Tiernahrung Gesellschaft m.b.H. Werk Aschach,"Harrachstraße 4, 4082 Aschach an der Donau, Austria",48.3608974,14.0210398,Aschach an der Donau,Austria,compound feed producer,Certified
+12,Garant Tiernahrung Gesellschaft m.b.H. Werk Graz,"Eckertstraße 1, 8020 Graz, Austria",47.0672484,15.4088796,Graz,Austria,compound feed producer,Certified
+13,Geissbühler Mühle GmbH,"Lochmattstr. 59, 3504 Oberhünigen, Switzerland",46.8798349,7.6584851,Oberhünigen,Switzerland,compound feed producer,Certified
+14,Granovit AG,"Rinaustrasse 380, 4303 Kaiseraugst, Switzerland",47.5404293,7.7360352,Kaiseraugst,Switzerland,compound feed producer,Certified
+15,Granovit AG Gossau SG,"Bahnhofplatz 9, 9201 Gossau, Switzerland",47.4123277,9.2548806,Gossau,Switzerland,compound feed producer,Certified
+16,Granovit AG Lucens VD,"Route des Treize Cantons 2A, Case postale 54, 1522 Lucens, Switzerland",46.727149,6.8704172,Lucens,Switzerland,compound feed producer,Certified
+17,Gsellmann Mischfuttererzeugung GmbH,"Kohlberg 63, 8342 Gnas, Austria",46.8969089,15.7962838,Gnas,Austria,compound feed producer,Certified
+18,Hamex AG,"Rötzmattweg 21, 4600 Olten, Switzerland",47.34756,7.8998733,Olten,Switzerland,compound feed producer,Certified
+19,Hamex AG (ehm. Hammermühle AG),"Dorfstrasse 27, 6196 Marbach, Switzerland",46.8541886,7.9003321,Marbach,Switzerland,compound feed producer,Certified
+20,Herbert Lugitsch u. Söhne GmbH Feldbach,"Gniebing 52, 8330 Feldbach, Austria",46.9592709,15.8509741,Feldbach,Austria,compound feed producer,Certified
+21,Königshofer GmbH,"Franzensthalstraße 25, 2435 Ebergassing, Austria",48.0402621,16.514784,Ebergassing,Austria,compound feed producer,Certified
+22,Kunz Kunath AG - Standort Weinfelden,"Industriestrasse 55, 8570 Weinfelden, Switzerland",47.5607196,9.0988869,Weinfelden,Switzerland,compound feed producer,Certified
+23,Landi Luzern-West Genossenschaft,"Ettiswilerstraße 30, 6130 Willisau, Switzerland",47.1267846,7.9979586,Willisau,Switzerland,compound feed producer,Certified
+24,Likra Tierernährung GmbH,"Ignaz Mayer-Straße 12, 4021 Linz, Austria",48.3089405,14.3237193,Linz,Austria,compound feed producer,Certified
+25,Likra Tierernährung GmbH Mischfutterwerk Marchtrenk,"Freilingerstraße 46, 4614 Marchtrenk, Austria",48.1936452,14.0901985,Marchtrenk,Austria,compound feed producer,Certified
+26,Mischfutterwerk Großschedl GmbH,"Hofing 12, 8221 Feistritztal, Austria",47.1898412,15.8464421,Feistritztal,Austria,compound feed producer,Certified
+27,Raiffeisen Kraftfutterwerk Kehl GmbH,"Werkstraße 29, 77694 Kehl, Germany",48.5825765,7.8466082,Kehl,Germany,compound feed producer,Certified
+28,"Reitbauer GmbH Mühle, Säge-, Mischfutterwerk","Vestenthal 19, 4431 Haidershofen, Austria",48.0764208,14.5120711,Haidershofen,Austria,compound feed producer,Certified
+29,Siglmühle GmbH,"Mühlbachstraße 28, 5201 Seekirchen am Wallersee, Austria",47.8976823,13.11787,Seekirchen am Wallersee,Austria,compound feed producer,Certified
+30,Société coopérative du Moulin de Payerne,"Route de la Piscine 4, 1530 Payerne, Switzerland",46.8115457,6.9394821,Payerne,Switzerland,compound feed producer,Certified
+31,UFA AG Mischfutterwerk St. Margrethen,"Industriestrasse 39a, 9430 St. Margrethen, Switzerland",47.4479887,9.6504981,St. Margrethen,Switzerland,compound feed producer,Certified
+32,UFA AG Mischfutterwerk Sursee,"Merkurstraße 1, 6210 Sursee, Switzerland",47.167746,8.1017683,Sursee,Switzerland,compound feed producer,Certified
+33,UITZ MÜHLE Gesellschaft m.b.H.,"Weyerngasse 125, 8720 Knittelfeld, Austria",47.203725,14.8235318,Knittelfeld,Austria,compound feed producer,Certified
+34,Unser Lagerhaus Warenhandelsgesellschaft m.b.H.,"Südring 240, 9020 Klagenfurt, Austria",46.6063991,14.3021392,Klagenfurt,Austria,compound feed producer,Certified
+35,VORARLBERGER Mühlen und Mischfutterwerke GmbH,"Stöckenstraße 8, 6850 Dornbirn, Austria",47.3854637,9.7207382,Dornbirn,Austria,compound feed producer,Certified
+36,Weinlandmühle Trüllikon Glanzmann AG,"Rudolfingerstrasse 21, 8466 Trüllikon, Switzerland",47.6380172,8.6885435,Trüllikon,Switzerland,compound feed producer,Certified
+37,Wiesbauer Mühle GmbH,"Mühlberg 3, 4982 Obernberg, Austria",48.3193754,13.3417115,Obernberg,Austria,compound feed producer,Certified
+38,Willi Grüninger AG,"Büntenriet, Postfach 43, 8890 Flums, Switzerland",47.0927114,9.352599,Flums,Switzerland,compound feed producer,Certified
+39,Agrarhandel Lorber Inh. Lorber Karl jun.,"Wagendorferstraße 53, 8423 St. Veit am Vogau, Austria",46.755046,15.6129425,St. Veit am Vogau,Austria,primary collector,Certified
+40,Agrarhandelsgesellschaft mbH Südburgenland,"Gewerbepark 5, 7502 Unterwart, Austria",47.2639302,16.2288353,Unterwart,Austria,primary collector,Certified
+41,"Agrarna kompaniya 2004, PE","34a, Shkilna str., Popivtsi village, Volochysk distr., 31222 Khmelnytsk, Ukraine",49.6538242,26.5323407,Khmelnytsk,Ukraine,primary collector,Certified
+42,Agrarunion Südost eGen Lagerhaus & Co. KG Filiale Fehring,"Brunn 152, 8350 Fehring, Austria",46.9496889,16.0081378,Fehring,Austria,primary collector,Certified
+43,Agrarunion Südost eGen Lagerhaus & Co. KG Zentrale Feldbach,"Lugitschstraße 1, 8330 Feldbach, Austria",46.9576719,15.8866553,Feldbach,Austria,primary collector,Certified
+44,Agro Centar Mibiko d.o.o,"Savska 106b, 10310 Ivanić Grad, Croatia",45.6990776,16.3859364,Ivanić Grad,Croatia,primary collector,Certified
+45,AGRO RAVANGRAD DOO SOMBOR,"Ilije Birčanina 55, 25000 Sombor, Serbia",45.7648411,19.106872,Sombor,Serbia,primary collector,Certified
+46,AGRO TRADING GmbH,"Gewerbepark 5, 9131 Grafenstein, Austria",46.6406357,14.4436061,Grafenstein,Austria,primary collector,Certified
+47,AGRO-CHIRNOGI SA,"Str. Principala , nr 17, 917025 Comuna Chirnogi, Jud Calarasi, Romania",44.1101054,26.5895363,"Comuna Chirnogi, Jud Calarasi",Romania,primary collector,Certified
+48,Agrodjole d.o.o.,"Karadorda Petrovica 96, 35220 Ribare, Serbia",43.9977166,21.2894107,Ribare,Serbia,primary collector,Certified
+49,"AGROFIRMA ""DOVIRA 2008"", LLC","113, Kyivs’ka str., Korovyntsi village, Sumy distr., 42140 Summy, Ukraine",50.9338779,34.7796601,Summy,Ukraine,primary collector,Certified
+50,"AGROFIRMA ""STEP"", LLC","16, Naberezhna str., Stepne village, Sumy distr, 42315 Summy, Ukraine",51.1753739,34.6866149,Summy,Ukraine,primary collector,Certified
+51,"Agroholding ""Zoria"", LLC","2, Volodymyra Pliutynskoho square, Zoria village, 35314 Rivne, Ukraine",50.7241261,26.0266362,Rivne,Ukraine,primary collector,Certified
+52,"AGRO-LUCHKY, ALLC","6, HAHARINА STR., 89625 VELYKI LUCHKY VILL., MUKACHIV DISTR., ZAKARPATSKIY REG., Ukraine",48.4199587,22.5614331,"VELYKI LUCHKY VILL., MUKACHIV DISTR., ZAKARPATSKIY REG.",Ukraine,primary collector,Certified
+53,AGRONOM d.o.o.,"Zagrebačka 171, 34000 POŽEGA, Croatia",45.3293531,17.6469544,POŽEGA,Croatia,primary collector,Certified
+54,"Agrooiltrade, OU","Narva mnt 13, Tallinn city, Kesklinna distr., Harju mNarva mnt 13, Tallinn city, Keskliaakond reg.,, 10151 Tallinn, Ukraine",59.437732,24.765061,Tallinn,Ukraine,primary collector,Certified
+55,Agrotirnave SRL,"Sorostin FN, 557256 Sorostin, Romania",46.0282159,24.0603472,Sorostin,Romania,primary collector,Certified
+56,Ahrer Stefanie Landesprodukten,"Oberwarterstraße 30, 7400 St. Martin, Austria",47.2993394,16.2375699,St. Martin,Austria,primary collector,Certified
+57,Ameropa Zitni Terminal,"Vranjicki put 16, 21210 Solin, Croatia",43.5240363,16.4642936,Solin,Croatia,primary collector,Certified
+58,Animal Commerce d.o.o.,"Bulevar Arsenija Carnojevia 54a, 11070 Novi Beograd, Serbia",44.8115508,20.4237947,Novi Beograd,Serbia,primary collector,Certified
+59,APK RusAgroAlliance LLC,"Dankovsky District, 399825 Lipetsk Region, Russia",53.3185953,39.0298554,Lipetsk Region,Russia,primary collector,Certified
+60,"AVIS UKRAGRO GROUP, LLC","6, Molodizhna str., Shpylivka village, Sumy distr., 42354 Summy, Ukraine",50.8845906,34.8161131,Summy,Ukraine,primary collector,Certified
+61,"AVIS UKRAGRO, LLC","27, Tsentralna str., Shpylivka village, Sumy distr., 42354 Summy, Ukraine",50.9077,34.7981,Summy,Ukraine,primary collector,Certified
+62,"AVIS ZERNOTRADE, LLC","16, Naberezhna str., Stepne village (Kindrativ village council), Sumy distr., 42315 Summy, Ukraine",51.1753739,34.6866149,Summy,Ukraine,primary collector,Certified
+63,Axereal Croatia d.o.o.,"Kralja Petra Svačiča, 35400 Zagreb, Croatia",45.8071222,15.9743561,Zagreb,Croatia,primary collector,Certified
+64,B. Lienhart SAS,"37, route de Strasbourg, 67860 Boofzheim, France",48.3358773,7.6817182,Boofzheim,France,primary collector,Certified
+65,BAG Hohenlohe Raiffeisen eG,"Ritterstraße 4, 74523 Schwäbisch Hall, Germany",49.1061312,9.7325924,Schwäbisch Hall,Germany,primary collector,Certified
+66,BAG Ölmühle BetriebsgmbH,"Wienerstraße 12a, 7540 Güssing, Austria",47.0699743,16.3233137,Güssing,Austria,primary collector,Certified
+67,BAG Raiffeisen eG Creglingen,"Bad Mergentheimer Straße 6, 97339 Creglingen, Germany",49.4726718,10.0295426,Creglingen,Germany,primary collector,Certified
+68,BAGeno Bad Mergentheim,"Zaisenmühlstraße 6, 97980 Bad Mergentheim, Germany",49.4928797,9.7702315,Bad Mergentheim,Germany,primary collector,Certified
+69,Bankom d.o.o.,"Bulevar Nikole Tesle 30A, 11080 Zemun-Beograd, Serbia",44.8306092,20.4187051,Zemun-Beograd,Serbia,primary collector,Certified
+70,BELJE plus d.o.o.,"Svetog Ivana Krstitelja 1a, 31326 Darda, Croatia",45.6426473,18.6848598,Darda,Croatia,primary collector,Certified
+71,"Berehiv grain-collecting company, LLC","3, Dostoevskoho str., Berehove village, 90202 Uzhhorod, Ukraine",48.6208,22.287883,Uzhhorod,Ukraine,primary collector,Certified
+72,Cereal Docks S.p.A - Summaga di Portogruaro,"Via dell´Agricoltura 20, 30026 Summaga di Portogruaro, Italy",45.7748013,12.8046195,Summaga di Portogruaro,Italy,primary collector,Certified
+73,Cereal Docks S.p.A.,"Via dell’Innovazione 1, 36043 Camisano Vicentino VI, Italy",45.499759,11.7111967,Camisano Vicentino VI,Italy,primary collector,Certified
+74,CEZAREJA d.o.o.,"Gorjani 17, 32 281 Ivankovo, Croatia",45.2872985,18.6823916,Ivankovo,Croatia,primary collector,Certified
+75,"CHERNIHIV ELEVATOR, LLC","45, Pryvokzalna str., Velyka Doch village, Borzna distr. reg.,, 16431 Chernihiv, Ukraine",51.3164008,32.5845511,Chernihiv,Ukraine,primary collector,Certified
+76,"Company ""Ukrelitagro"", LLC","64, Tsentralna str., Mykhniv village, Iziaslav distr.,, 30346 Khmelnytsk, Ukraine",49.422983,26.987133,Khmelnytsk,Ukraine,primary collector,Certified
+77,Dickinger Agrarhandel GmbH,"Stampfstrasse 3, 4655 Vorchdorf, Austria",48.0051882,13.9189093,Vorchdorf,Austria,primary collector,Certified
+78,DOO PORT COMPANY APATIN,"Nova 33, 25260 Apatin, Serbia",45.6721615,18.9845324,Apatin,Serbia,primary collector,Certified
+79,"fenaco Genossenschaft Getreide, Ölsaaten, Futtermittel","Auhafenstrasse 131a, 4127 Birsfelden, Switzerland",47.5418106,7.6597923,Birsfelden,Switzerland,primary collector,Certified
+80,Ferdinand Mayr GmbH & Co KG,"Ziegeleistrasse 33, 4631 Krenglbach, Austria",48.2091853,13.9749495,Krenglbach,Austria,primary collector,Certified
+81,Fuchshuber Agrarhandel GmbH,"Mühlbachstraße 151, 4063 Hörsching, Austria",48.1991949,14.1604736,Hörsching,Austria,primary collector,Certified
+82,Fuchshuber Agrarhandel GmbH Filiale Eferding,"Raffeldingerstraße 35, 4070 Eferding, Austria",48.2871975,14.0395026,Eferding,Austria,primary collector,Certified
+83,Fuchshuber Agrarhandel GmbH Filiale Ennsdorf,"Wirtschaftsparkstraße 9, 4482 Ennsdorf bei Enns, Austria",48.2208631,14.5067823,Ennsdorf bei Enns,Austria,primary collector,Certified
+84,Fuchshuber Agrarhandel GmbH Filiale Gunskirchen,"Hof 5, 4623 Gunskirchen, Austria",48.1611102,13.9639584,Gunskirchen,Austria,primary collector,Certified
+85,Galldorf ZRT.,"92th Köztársaság Street, 2376 Hernád, Hungary",47.1684129,19.4104262,Hernád,Hungary,primary collector,Certified
+86,Garant Tiernahrung Gesellschaft m.b.H. Werk Pöchlarn,"Raiffeisenstraße 3, 3380 Pöchlarn, Austria",48.2120481,15.2240323,Pöchlarn,Austria,primary collector,Certified
+87,GEN-NO GmbH & Co KG,"Schlossgasse 1, 4760 Raab, Austria",48.3512356,13.6491897,Raab,Austria,primary collector,Certified
+88,Glatz GmbH,"Johannesgasse 23, 1010 Wien, Austria",48.204309,16.3748523,Wien,Austria,primary collector,Certified
+89,Gradwohl Agrar GmbH,"Schanzgrabenweg 340, 8291 Burgau, Austria",47.1520671,16.0935281,Burgau,Austria,primary collector,Certified
+90,Graf KG,"Rauchwart 51, 7535 Rauchwart im Burgenland, Austria",47.1335225,16.2350509,Rauchwart im Burgenland,Austria,primary collector,Certified
+91,"GRAIN INDUSTRY, LLC","7, Zaliznychna stantsia str., Nyzy township, Sumy distr., 42335 Summy, Ukraine",50.777653,34.7797447,Summy,Ukraine,primary collector,Certified
+92,GRANDI MOLINI Handel GmbH Handel GmbH,"1. Molostraße, Hafen Albern, Speicher II, 1110 Wien, Austria",48.1593469,16.4978473,Wien,Austria,primary collector,Certified
+93,GRANOLIO D.D.,"Budmanijeva 5, 10000 Zagreb, Croatia",45.8023239,15.9991927,Zagreb,Croatia,primary collector,Certified
+94,Group of Companies AgroTerra,"Room 204, 116G, 50 Let Oktyabrya St., Kursk Region, 305040 Kursk, Russia",51.72054,36.16749,Kursk,Russia,primary collector,Certified
+95,Group of Companies AST - Acris Agro LLC,"106-B, Zhylyanska Str., 1032 Kyiv, Ukraine",50.4345515,30.5133454,Kyiv,Ukraine,primary collector,Certified
+96,Gsellmann Mischfuttererzeugung GmbH,"Kohlberg 63, 8342 Gnas, Austria",46.8969089,15.7962838,Gnas,Austria,primary collector,Certified
+97,H. Lugitsch Partner - Biokorn GmbH,"Unterlungitz 91, 8230 Hartberg, Austria",47.2995035,16.02614,Hartberg,Austria,primary collector,Certified
+98,Hamex AG (ehm. Hammermühle AG),"Dorfstrasse 27, 6196 Marbach, Switzerland",46.8541886,7.9003321,Marbach,Switzerland,primary collector,Certified
+99,Hausrucköl Verein & Co KG,"Industriestraße 35, 4710 Grieskirchen, Austria",48.2260197,13.8460305,Grieskirchen,Austria,primary collector,Certified
+100,Herbert Lugitsch u. Söhne GmbH Feldbach,"Gniebing 52, 8330 Feldbach, Austria",46.9592709,15.8509741,Feldbach,Austria,primary collector,Certified
+101,Hörtenhuber Agrarhandel GmbH,"Bahnhofstraße 14, 4533 Piberbach, Austria",48.1118227,14.2007181,Piberbach,Austria,primary collector,Certified
+102,Hörtenhuber Agrarhandel GmbH,"Bahnhofstrasse 14, 4533 Piberbach, Austria",48.1118227,14.2007181,Piberbach,Austria,primary collector,Certified
+103,Ing. Bernhard Wilfinger GmbH & CO KG,"Bad Blumau 73, 8283 Bad Blumau, Austria",47.114423,16.0568197,Bad Blumau,Austria,primary collector,Certified
+104,"Ing. Martin Stumpf, Die Hühnerei","Schölbing 1, 8230 Hartberg, Austria",47.2586592,15.9995727,Hartberg,Austria,primary collector,Certified
+105,Izberdey Elevator,"St. Gagarina, with. Petrovskoe, d.7 (for 2 enterprises), 393070 Petrovsky District, Russia",52.6296476,40.2476185,Petrovsky District,Russia,primary collector,Certified
+106,Izmallovsky Elevator,"Izmalkovsky District, Izmalkovo Village,, 399000 Lipetsk Region, Russia",52.6957654,37.9623983,Lipetsk Region,Russia,primary collector,Certified
+107,Josef Bauchinger GmbH & Co KG,"Magerlstrasse 1, 4910 Ried im Innkreis, Austria",48.2005885,13.4815801,Ried im Innkreis,Austria,primary collector,Certified
+108,JSC Biotechnologies,"Kolhoznaya 18, 393000 Dmitrievka village, Russia",52.8785963,40.7933828,Dmitrievka village,Russia,primary collector,Certified
+109,JSC Ksenskoe HPP,"Lenina str. 3, 306600 Kshensky, Russia",51.8412025,37.708488,Kshensky,Russia,primary collector,Certified
+110,JSC Ucholovohleboproduct,"Revolution st., 15, 391920 Ucholovo village, Russia",61.52401,105.318756,Ucholovo village,Russia,primary collector,Certified
+111,Karintia Kft.,"Mártírok u. 50, 9800 Vasvár, Hungary",47.0542365,16.7920959,Vasvár,Hungary,primary collector,Certified
+112,"KHLIBOROB, ALLC","1, Pershotravneva str., Sukha Hrun village, Lypova Dolyna distr., 42506 Sumy, Ukraine",50.596973,33.8652604,Sumy,Ukraine,primary collector,Certified
+113,Klaipeda stevedoring company „BEGA“,"Nemuno G., 2B, LT91199 Klaipeda, Lithuania",55.6993262,21.1355264,Klaipeda,Lithuania,primary collector,Certified
+114,"KNIAZHI LANY, LLC","47, Shevchenka str., Kniazhe village, Zolochiv distr., 80733 Lviv, Ukraine",49.8466409,24.0038473,Lviv,Ukraine,primary collector,Certified
+115,Kohl Frischei KG,"Hartl 29, 8224 Kaindorf, Austria",47.1933712,15.9043346,Kaindorf,Austria,primary collector,Certified
+116,Kohl Frischei KG,"Hartl 29, 8224 Kaindorf, Austria",47.1933712,15.9043346,Kaindorf,Austria,primary collector,Certified
+117,Lagerhaus Wechselgau eGen,"Weidenstraße 17, 8230 Hartberg, Austria",47.2836012,15.9869402,Hartberg,Austria,primary collector,Certified
+118,Landesprodukte Walchshofer - Zehetner GmbH,"Karndorfstrasse 1, 4521 Schiedlberg, Austria",48.0886616,14.2628369,Schiedlberg,Austria,primary collector,Certified
+119,Landwirtschaftliche Genossenschaft Klagenfurt - St.Veit - Rosental eGen Filiale St. Veit/Glan,"Blintendorfer Straße 22, 9300 Blintendorf bei St. Veit an der Glan, Austria",46.7368527,14.3764334,Blintendorf bei St. Veit an der Glan,Austria,primary collector,Certified
+120,Landwirtschaftliche Genossenschaft Klagenfurt / St.Veit / Rosental,"Schlachthofstraße 17, 9020 Klagenfurt, Austria",46.6271569,14.31978,Klagenfurt,Austria,primary collector,Certified
+121,LBV Raiffeisen eG Schrozberg,"Zellerweg 8, 74575 Schrozberg, Germany",49.3475078,9.9736525,Schrozberg,Germany,primary collector,Certified
+122,Leitgeb GmbH,"Engelsweg 3, 7563 Königsdorf, Austria",47.0059887,16.169385,Königsdorf,Austria,primary collector,Certified
+123,Lienhart Sojameal,"37 Route de Strasbourg, 6700 AA Boofzheim, France",48.3358773,7.6817182,Boofzheim,France,primary collector,Certified
+124,Limited Liability Company ‘Ranenburg’,"st. Industrial, d.9, 399900 Lipetsk Region, Russia",53.2653908,39.9600609,Lipetsk Region,Russia,primary collector,Certified
+125,LLC Corporation Kursk Bread Base No. 24,"Magistral pass., 18, 305025 Kursk, Austria",51.7482395,36.1947023,Kursk,Austria,primary collector,Certified
+126,LLC Grainrus Trade,"Uchebny lane 4, building 1, office 9, 119048 Moscow, Russia",55.7237615,37.5596853,Moscow,Russia,primary collector,Certified
+127,LLC Karian-Stroganovsky Elevator,"Rabochaya st. 43, 393401 Znamenka, Austria",52.4264286,41.4326074,Znamenka,Austria,primary collector,Certified
+128,LLC Konyshevsky elevator HPP,"Oktyabr’skaya 54, 307620 Kursk region, Russia",51.8336114,35.282536,Kursk region,Russia,primary collector,Certified
+129,LLC Korenevsky Elevator,"Osipenko st., 81,, 307410 Korenevo village, Russia",51.4110671,34.900265,Korenevo village,Russia,primary collector,Certified
+130,LLC Kurskagroterminal,"Sovietskaya st., 10/1 office 2, 306700 Kursk region, Russia",51.8193439,38.1552,Kursk region,Russia,primary collector,Certified
+131,LLC Melensky Kartofel,"Severnaya st., 1A, 243253 Melensk village, Starodubsky district, Russia",52.6338011,32.9295287,"Melensk village, Starodubsky district",Russia,primary collector,Certified
+132,LLC Semzavod,"Komsomolskaya st., 19, 396160 Pereleshinsky, Russia",51.7154031,40.1923083,Pereleshinsky,Russia,primary collector,Certified
+133,LLC Sredneikoretskoe HPP,"Lineynaya st., 22B, 397961 Sredny Ikorets village, Liskinsky district, Russia",51.0481054,39.7198415,"Sredny Ikorets village, Liskinsky district",Russia,primary collector,Certified
+134,LLC Starooskolskoe HPP,"8th March st., 2, 309508 Stary Oskol, Russia",51.2639353,37.883985,Stary Oskol,Russia,primary collector,Certified
+135,LLC Staroyurjevsky Elevator,"Elevatornaya st., 22,, 393801 Staroyurjevo village,, Russia",53.2955539,40.6805161,"Staroyurjevo village,",Russia,primary collector,Certified
+136,Luka Rijeka d.d.,"Riva 1, 51000 Rijeka, Croatia",45.327149,14.4372338,Rijeka,Croatia,primary collector,Certified
+137,"LYPOVODOLYNSKYI RAYSNAB, LLC","Parkova str., Podіlky village, Lypova Dolyna distr., 42530 Sumy, Ukraine",50.5694132,33.7934185,Sumy,Ukraine,primary collector,Certified
+138,MARIA SHIPPING AGENCY SRL,"Bd Ferdinand, nr 19, Et 3, cam 1, 900721 Constanta, Romania",44.1761911,28.6475413,Constanta,Romania,primary collector,Certified
+139,Mat-Agro d.o.o.,"Železnička 31, 21410 Futog, Serbia",45.2428633,19.701062,Futog,Serbia,primary collector,Certified
+140,Mauerhofer Frischeier GesmbH,"Maieregg 36, 8265 Großsteinbach, Austria",47.18292,15.8896257,Großsteinbach,Austria,primary collector,Certified
+141,Metz KG Ölmühle und Agrarhandel,"Heimberg 22, 3350 Haag, Austria",48.1119234,14.6306896,Haag,Austria,primary collector,Certified
+142,MH Agrarhandel GmbH,"Haselbach 7, 8350 Fehring, Austria",46.9102936,15.9732832,Fehring,Austria,primary collector,Certified
+143,Mischfutterwerk Großschedl GmbH,"Hofing 12, 8221 Feistritztal, Austria",47.1898412,15.8464421,Feistritztal,Austria,primary collector,Certified
+144,Mitterer GmbH,"Waidhofnerstraße 2, 3353 Seitenstetten, Austria",48.0354428,14.6533304,Seitenstetten,Austria,primary collector,Certified
+145,"NATASHA-AGRO, LLC","27, Tsihanivka str., Nova Basan, Bobrovytsia distr., Chernihiv reg., 17461 Bobrovytsia distr., Ukraine",50.5676549,31.5036054,Bobrovytsia distr.,Ukraine,primary collector,Certified
+146,"NOVI TRADING NS, d.o.o.","Marsala Tita bb, 21212 Zmajevo, Serbia",45.4529799,19.6874731,Zmajevo,Serbia,primary collector,Certified
+147,OJSC Kursk Agro,"Elevatornaya st., 30, 306230 Oboyan’, Russia",51.2122444,36.2785751,Oboyan’,Russia,primary collector,Certified
+148,Oleificio San Giorgio S.p.A,"Via E. Majorana, 33058 S. Giorgio di Nogaro, Italy",45.7787462,13.238435,S. Giorgio di Nogaro,Italy,primary collector,Certified
+149,Olewnik - Expo,"Ul Kosciuszki 9, 09-402 Plock, Poland",52.541978,19.6919601,Plock,Poland,primary collector,Certified
+150,OZZ ZLATNO ZRNO GLOŽAN,"Maršala Tita 89, 21412 Bački Petrovac – Gložan, Serbia",45.2760163,19.5633839,Bački Petrovac – Gložan,Serbia,primary collector,Certified
+151,Pazek Franz Getreidehandel,"Glatzental 21, 8342 Gnas, Austria",46.8821772,15.7854088,Gnas,Austria,primary collector,Certified
+152,"Pechanivsky KHP, PJSC","1A, Tsentralna Str., Pechanivka vill., Romanivka district, 13045 Zhytomyr region, Ukraine",50.0737258,27.7928916,Zhytomyr region,Ukraine,primary collector,Certified
+153,PIK-VINKOVCI plus d.o.o.,"Matija Gupca 130, 32100 Vinkovci, Croatia",45.2775311,18.8142752,Vinkovci,Croatia,primary collector,Certified
+154,PO PIM,"Savska 12, 44000 Sisak, Croatia",45.4776176,16.390671,Sisak,Croatia,primary collector,Certified
+155,POLJOPRIVREDNO PODUZEĆE ORAHOVICA d.o.o.,"Pustara 1, 33513 Zdenci, Croatia",45.5825837,17.9517519,Zdenci,Croatia,primary collector,Certified
+156,PREDUZEĆE ZA PROIZVODNJU I TRGOVINU NA VELIKO I MALO METEOR-COMMERCE DOO SOMBOR,"Staparski put bb, 25000 Sombor, Serbia",45.7608542,19.1245131,Sombor,Serbia,primary collector,Certified
+157,PROMIST d.o.o.,"Privrednikova 6, 21000 Novi Sad, Serbia",45.278829,19.8086911,Novi Sad,Serbia,primary collector,Certified
+158,Raiffeisen Lagerhaus Lavanttal reg. Gen.m.b.H. Betrieb Jakling,"Jakling 2, 9433 St. Andrä, Austria",46.7617536,14.8422945,St. Andrä,Austria,primary collector,Certified
+159,Raiffeisen-Lagerhaus Marchfeld eGen,"Bahnstrasse 109, 2283 Obersiebenbrunn, Austria",48.2447519,16.6996457,Obersiebenbrunn,Austria,primary collector,Certified
+160,Raiffeisen-Lagerhaus Marchfeld eGen Filiale Deutsch Wagram,"Lagerhausgasse 2, 2232 Deutsch-Wagram, Austria",48.3019125,16.5624037,Deutsch-Wagram,Austria,primary collector,Certified
+161,Raiffeisen-Lagerhaus Marchfeld eGen Filiale Kopfstetten,"Kopfstetten 64, 2305 Kopfstetten, Austria",48.1700967,16.8103402,Kopfstetten,Austria,primary collector,Certified
+162,Raiffeisen-Lagerhaus Marchfeld eGen Filiale Marchegg,"Schloßhoferstrasse 2, 2294 Marchegg Bahnhof, Austria",48.2463155,16.9214956,Marchegg Bahnhof,Austria,primary collector,Certified
+163,Raiffeisen-Lagerhaus Marchfeld eGen Filiale Untersiebenbrunn,"Bahnstraße 32, 2284 Untersiebenbrunn, Austria",48.2483119,16.7466195,Untersiebenbrunn,Austria,primary collector,Certified
+164,Raiffeisen-Lagerhaus Mostviertel Mitte reg. Gen.m.b.H. Filiale Roggendorf,"Dorfstraße 45, 3382 Roggendorf, Austria",48.2095448,15.3800521,Roggendorf,Austria,primary collector,Certified
+165,Raiffeisen-Lagerhaus Süd-Burgenland eGen Filiale Deutsch-Schützen,"Angergasse 4, 7474 Deutsch Schützen, Austria",47.166,16.44581,Deutsch Schützen,Austria,primary collector,Certified
+166,Raiffeisen-Lagerhaus Süd-Burgenland eGen Filiale Güssing,"Raiffeisenstraße 20, 7540 Güssing, Austria",47.0657805,16.3254038,Güssing,Austria,primary collector,Certified
+167,Raiffeisen-Lagerhaus Süd-Burgenland eGen Filiale Jennersdorf,"Bahnhofring 11, 8380 Jennersdorf, Austria",46.93521,16.1416029,Jennersdorf,Austria,primary collector,Certified
+168,Raiffeisen-Lagerhaus Süd-Burgenland eGen Filiale Kulm,"Kulm 43, 7521 Eberau, Austria",47.103355,16.4556943,Eberau,Austria,primary collector,Certified
+169,Raiffeisen-Lagerhaus Süd-Burgenland eGen Filiale Rechnitz,"Gewerbepark 33, 7471 Rechnitz, Austria",47.2811049,16.4440331,Rechnitz,Austria,primary collector,Certified
+170,Raiffeisen-Lagerhaus Süd-Burgenland eGen Filiale Rudersdorf,"Grazer Straße 33, 7571 Rudersdorf, Austria",47.0544614,16.1096996,Rudersdorf,Austria,primary collector,Certified
+171,Raiffeisen-Lagerhaus Süd-Burgenland eGen Filiale St. Michael,"Oberwarter Straße 244, 7535 St. Michael im Burgenland, Austria",47.1270754,16.2624684,St. Michael im Burgenland,Austria,primary collector,Certified
+172,Raiffeisen-Lagerhaus Süd-Burgenland eGen Zentrale Unterwart,"Gewerbepark 5, 7502 Unterwart, Austria",47.2639302,16.2288353,Unterwart,Austria,primary collector,Certified
+173,Ruris d.o.o.,"Matije Gupca 44, 32270 Županja, Croatia",45.0705782,18.695635,Županja,Croatia,primary collector,Certified
+174,RWA Hrvatska d.o.o.,"Zapadno predgrađe 18, 31000 Osijek, Croatia",45.5362711,18.6627033,Osijek,Croatia,primary collector,Certified
+175,RWA HRVATSKA d.o.o.,"Zapadno predgrađe 18, 31000 Osijek, Croatia",45.5362711,18.6627033,Osijek,Croatia,primary collector,Certified
+176,RWA Raiffeisen Ware Austria Aktiengesellschaft Lager Aschach,"Harrachstraße 4, 4082 Aschach an der Donau, Austria",48.3608974,14.0210398,Aschach an der Donau,Austria,primary collector,Certified
+177,SAATBAU ERNTEGUT GmbH Biogut Pöttelsdorf,"Gmirkweg 3, 7023 Pöttelsdorf, Austria",47.7646082,16.4353287,Pöttelsdorf,Austria,primary collector,Certified
+178,SC Agricost SA,"Calea Calarasilor Nr 327, 810440 Braila, Romania",45.2389384,27.9432417,Braila,Romania,primary collector,Certified
+179,Schöllerbacher GmbH,"Wiesstraße 12, 4493 Wolfern, Austria",48.1189889,14.368262,Wolfern,Austria,primary collector,Certified
+180,Schwarz Agrar GmbH,"Untere Dorfstraße 24, 7512 Badersdorf, Austria",47.1959821,16.3746897,Badersdorf,Austria,primary collector,Certified
+181,Seges d.o.o.,"Vinkovačka 51, 32270 Županja, Croatia",45.0822903,18.6976056,Županja,Croatia,primary collector,Certified
+182,Seierl Landesprodukte GmbH,"Großendorf 36, 4551 Ried im Traunkreis, Austria",48.0388309,14.0564461,Ried im Traunkreis,Austria,primary collector,Certified
+183,Silo Olten,"Industriestrasse 38, 4600 Olten, Switzerland",47.3598764,7.9116757,Olten,Switzerland,primary collector,Certified
+184,Sobrinos de Manuel Cámara S.A.,"C/Sorgintxulo 3, 20100 Rentería, Spain",43.3168552,-1.9110047,Rentería,Spain,primary collector,Certified
+185,Sodrugestvo Balkans d.o.o.,"Bulevar Oslobodjenja 30, 21000 Novi Sad, Serbia",45.2594599,19.8328917,Novi Sad,Serbia,primary collector,Certified
+186,Tatschl Produktions GmbH,"Kampach 7, 9470 St. Paul, Austria",46.7136636,14.8448017,St. Paul,Austria,primary collector,Certified
+187,"Trading Company ""Vitagro"", LLC","7D, Kotovs’koho str., Volochysk, 31200 Khmelnytsk, Ukraine",49.4250924,26.9755624,Khmelnytsk,Ukraine,primary collector,Certified
+188,UITZ MÜHLE Gesellschaft m.b.H.,"Weyerngasse 125, 8720 Knittelfeld, Austria",47.203725,14.8235318,Knittelfeld,Austria,primary collector,Certified
+189,"UKR-AGRO RT, LLC","8, Zaliznychna str., Brovki-Pershi village, Andrushivka distr., Zhytomyr reg.,  Ukraine, 13444 Zhytomyr, Ukraine",50.2681299,28.7081832,Zhytomyr,Ukraine,primary collector,Certified
+190,Uljarice-Bačka d.o.o.,"Rumenačka 1, 21000 Novi Sad, Serbia",45.2592068,19.822163,Novi Sad,Serbia,primary collector,Certified
+191,Ultra-Brag AG,"Südquaistrasse 55, 4057 Basel, Switzerland",47.5852312,7.5982109,Basel,Switzerland,primary collector,Certified
+192,Unser Lagerhaus Warenhandelsgesellschaft m.b.H.,"Südring 240, 9020 Klagenfurt, Austria",46.6063991,14.3021392,Klagenfurt,Austria,primary collector,Certified
+193,Victoria Logistic d.o.o.,"Hajduk Veljkova 11, 21000 Novi Sad, Serbia",45.2545561,19.8195901,Novi Sad,Serbia,primary collector,Certified
+194,"Vimeksim SRB, d.o.o.","Narodnog Fronta 23, 21000 Novi Sad, Serbia",45.2396465,19.8368496,Novi Sad,Serbia,primary collector,Certified
+195,Vin Farm doo,"Ledina 77, 21472 Kulpin, Serbia",45.4026421,19.5939968,Kulpin,Serbia,primary collector,Certified
+196,"VIT AGRO KRASYLIV, LLC","10, Zelena str., Velyki Zozulyntsi village, Krasyliv distr., 31036 Khmelnytsk, Ukraine",49.673784,26.6514119,Khmelnytsk,Ukraine,primary collector,Certified
+197,VUPIK plus d.o.o.,"Sajmište 113c, 32000 Vukovar, Croatia",45.3305237,19.0039468,Vukovar,Croatia,primary collector,Certified
+198,Weinlandmühle Trüllikon Glanzmann AG,"Rudolfingerstrasse 21, 8466 Trüllikon, Switzerland",47.6380172,8.6885435,Trüllikon,Switzerland,primary collector,Certified
+199,Wieder GmbH,"Feilendorf 4, 3231 St. Margarethen an der Sierning, Austria",48.1585281,15.5223878,St. Margarethen an der Sierning,Austria,primary collector,Certified
+200,Witzmann Mühle GmbH,"Dötting 6, 5252 Aspach, Austria",48.1815871,13.2771381,Aspach,Austria,primary collector,Certified
+201,Witzmann Mühle GmbH Außenstelle Pichl,"Aichmühl 2, 4632 Pichl bei Wels, Austria",48.1972246,13.9213647,Pichl bei Wels,Austria,primary collector,Certified
+202,Zemljoradnička zadruga Bačex Bač,"JNA 133A, 21420 Bač, Serbia",45.3949667,19.2332964,Bač,Serbia,primary collector,Certified
+203,ZITO d.o.o.,"Đakovština 3, 31000 Osijek, Croatia",45.5536337,18.6745838,Osijek,Croatia,primary collector,Certified
+204,AGROA Raiffeisen eG (ehm. RKZ),"Raiffeisenzentrum 11, 75031 Eppingen, Germany",49.1341583,8.8980607,Eppingen,Germany,primary processor,Certified
+205,Animal Commerce d.o.o.,"Bulevar Arsenija Carnojevia 54a, 11070 Novi Beograd, Serbia",44.8115508,20.4237947,Novi Beograd,Serbia,primary processor,Certified
+206,Animal Commerce d.o.o.,"Bulevar Arsenija Carnojevia 54a, 11070 Novi Beograd, Serbia",44.8115508,20.4237947,Novi Beograd,Serbia,primary processor,Certified
+207,BAG Ölmühle BetriebsgmbH,"Wienerstraße 12a, 7540 Güssing, Austria",47.0699743,16.3233137,Güssing,Austria,primary processor,Certified
+208,Bankom d.o.o.,"Bulevar Nikole Tesle 30A, 11080 Zemun-Beograd, Serbia",44.8306092,20.4187051,Zemun-Beograd,Serbia,primary processor,Certified
+209,Belagroterminal LTD,"Logisticheskaya str. 4, room 15, Grodno region, 231042 Smorgon, Belarus",54.4811688,26.4014213,Smorgon,Belarus,primary processor,Certified
+210,BIC Protein,"Europalaan 12E, 5232BC Hertogenbosch, Netherlands",51.7106434,5.3413931,Hertogenbosch,Netherlands,primary processor,Certified
+211,Cereal Docks S.p.A.,"Via dell’Innovazione 1, 36043 Camisano Vicentino VI, Italy",45.499759,11.7111967,Camisano Vicentino VI,Italy,primary processor,Certified
+212,CJSC Agroproduckt,"65 Gargarina Street, Svetly, 238340 Kaliningrad Region, Russia",54.7266042,20.5544214,Kaliningrad Region,Russia,primary processor,Certified
+213,Ernst Pretzl,"Mitterkreith 1, 93176 Beratzshausen, Germany",49.1126753,11.8166158,Beratzshausen,Germany,primary processor,Certified
+214,European Commodity Company SA,"26 Aveunue de la Liberte, L-2227 Grand Duchy of Luxembourg, Luxembourg",49.6044782,6.1299106,Grand Duchy of Luxembourg,Luxembourg,primary processor,Certified
+215,Fuchshuber Agrarhandel GmbH,"Mühlbachstraße 151, 4063 Hörsching, Austria",48.1991949,14.1604736,Hörsching,Austria,primary processor,Certified
+216,Garant Tiernahrung Gesellschaft m.b.H. Werk Pöchlarn,"Raiffeisenstraße 3, 3380 Pöchlarn, Austria",48.2120481,15.2240323,Pöchlarn,Austria,primary processor,Certified
+217,Gsellmann Mischfuttererzeugung GmbH,"Kohlberg 63, 8342 Gnas, Austria",46.8969089,15.7962838,Gnas,Austria,primary processor,Certified
+218,H. Lugitsch Partner - Biokorn GmbH,"Unterlungitz 91, 8230 Hartberg, Austria",47.2995035,16.02614,Hartberg,Austria,primary processor,Certified
+219,Hamex AG,"Rötzmattweg 21, 4600 Olten, Switzerland",47.34756,7.8998733,Olten,Switzerland,primary processor,Certified
+220,Hamex AG (ehm. Hammermühle AG),"Dorfstrasse 27, 6196 Marbach, Switzerland",46.8541886,7.9003321,Marbach,Switzerland,primary processor,Certified
+221,Hausrucköl Verein & Co KG,"Industriestraße 35, 4710 Grieskirchen, Austria",48.2260197,13.8460305,Grieskirchen,Austria,primary processor,Certified
+222,"Ing. Martin Stumpf, Die Hühnerei","Schölbing 1, 8230 Hartberg, Austria",47.2586592,15.9995727,Hartberg,Austria,primary processor,Certified
+223,Innöl CoKG,"Hofmark 5, 4962 Mining, Austria",48.2762924,13.1616954,Mining,Austria,primary processor,Certified
+224,Lienhart Sojameal,"37 Route de Strasbourg, 6700 AA Boofzheim, France",48.3358773,7.6817182,Boofzheim,France,primary processor,Certified
+225,LLC SODRUGESTVO-PROTEIN,"Gagarina-75, of. I-23, 238340 Kaliningrad region, Russia",54.6566919,20.1695233,Kaliningrad region,Russia,primary processor,Certified
+226,Mauerhofer Frischeier GesmbH,"Maieregg 36, 8265 Großsteinbach, Austria",47.18292,15.8896257,Großsteinbach,Austria,primary processor,Certified
+227,MH Agrarhandel GmbH,"Haselbach 7, 8350 Fehring, Austria",46.9102936,15.9732832,Fehring,Austria,primary processor,Certified
+228,MH Agrarhandel GmbH,"Haselbach 7, 8350 Fehring, Austria",46.9102936,15.9732832,Fehring,Austria,primary processor,Certified
+229,Mischfutterwerk Großschedl GmbH,"Hofing 12, 8221 Feistritztal, Austria",47.1898412,15.8464421,Feistritztal,Austria,primary processor,Certified
+230,Mitterer GmbH,"Waidhofnerstraße 2, 3353 Seitenstetten, Austria",48.0354428,14.6533304,Seitenstetten,Austria,primary processor,Certified
+231,Nordic Soya Oy,"Betorantie 42, FI-23500 Uusikaupunki, Finland",60.8061471,21.4681006,Uusikaupunki,Finland,primary processor,Certified
+232,Oleificio San Giorgio S.p.A,"Via E. Majorana, 33058 S. Giorgio di Nogaro, Italy",45.7787462,13.238435,S. Giorgio di Nogaro,Italy,primary processor,Certified
+233,Oy Soya Ab Jalofoods,"Hangontie 2493 A, 10660 Tammisaari, Finland",59.957508,23.365294,Tammisaari,Finland,primary processor,Certified
+234,Seierl Landesprodukte GmbH,"Großendorf 36, 4551 Ried im Traunkreis, Austria",48.0388309,14.0564461,Ried im Traunkreis,Austria,primary processor,Certified
+235,Sodrugestvo-Soy CJSC,"65 Gagarina St., 238340 Svetly, Kaliningrad Region, Russia",54.6566919,20.1695233,"Svetly, Kaliningrad Region",Russia,primary processor,Certified
+236,Sojaprotein DOO Becej (Victoria Group),"Industrijska 1, 21220 Bečej, Serbia",45.614386,20.047408,Bečej,Serbia,primary processor,Certified
+237,Tatschl Produktions GmbH,"Kampach 7, 9470 St. Paul, Austria",46.7136636,14.8448017,St. Paul,Austria,primary processor,Certified
+238,Tatschl Produktions GmbH,"Kampach 7, 9470 St. Paul, Austria",46.7136636,14.8448017,St. Paul,Austria,primary processor,Certified
+239,Trade House Sodrugestvo Ltd,"65 Gagarina Street, Svetly, 238340 Kaliningrad Region, Russia",54.7266042,20.5544214,Kaliningrad Region,Russia,primary processor,Certified
+240,UITZ MÜHLE Gesellschaft m.b.H.,"Weyerngasse 125, 8720 Knittelfeld, Austria",47.203725,14.8235318,Knittelfeld,Austria,primary processor,Certified
+241,Unser Lagerhaus Warenhandelsgesellschaft m.b.H.,"Südring 240, 9020 Klagenfurt, Austria",46.6063991,14.3021392,Klagenfurt,Austria,primary processor,Certified
+242,Vandamme Hungária Kft,"Tuzolto Utca 2, 2921 Komárom, Hungary",47.7312684,18.2020172,Komárom,Hungary,primary processor,Certified
+243,Vin Farm doo,"Ledina 77, 21472 Kulpin, Serbia",45.4026421,19.5939968,Kulpin,Serbia,primary processor,Certified
+244,Vin Farm doo,"Ledina 77, 21472 Kulpin, Serbia",45.4026421,19.5939968,Kulpin,Serbia,primary processor,Certified
+245,Weinlandmühle Trüllikon Glanzmann AG,"Rudolfingerstrasse 21, 8466 Trüllikon, Switzerland",47.6380172,8.6885435,Trüllikon,Switzerland,primary processor,Certified
+246,Wiesmair Silvia u. Dambauer Karl Silvia,"Dietach 12, 4600 Schleißheim, Austria",48.1389018,14.0869929,Schleißheim,Austria,primary processor,Certified
+247,Witzmann Mühle GmbH,"Dötting 6, 5252 Aspach, Austria",48.1815871,13.2771381,Aspach,Austria,primary processor,Certified
+248,BAG Ölmühle BetriebsgmbH,"Wienerstraße 12a, 7540 Güssing, Austria",47.0699743,16.3233137,Güssing,Austria,oil mill,Certified
+249,Belagroterminal LTD,"Logisticheskaya str. 4, room 15, Grodno region, 231042 Smorgon, Belarus",54.4811688,26.4014213,Smorgon,Belarus,oil mill,Certified
+250,Cereal Docks S.p.A.,"Via dell’Innovazione 1, 36043 Camisano Vicentino VI, Italy",45.499759,11.7111967,Camisano Vicentino VI,Italy,oil mill,Certified
+251,Nordic Soya Oy,"Betorantie 42, FI-23500 Uusikaupunki, Finland",60.8061471,21.4681006,Uusikaupunki,Finland,oil mill,Certified
+252,Oleificio San Giorgio S.p.A,"Via E. Majorana, 33058 S. Giorgio di Nogaro, Italy",45.7787462,13.238435,S. Giorgio di Nogaro,Italy,oil mill,Certified
+253,Trade House Sodrugestvo Ltd,"65 Gagarina Street, Svetly, 238340 Kaliningrad Region, Russia",54.7266042,20.5544214,Kaliningrad Region,Russia,oil mill,Certified
+254,Vandamme Hungária Kft,"Tuzolto Utca 2, 2921 Komárom, Hungary",47.7312684,18.2020172,Komárom,Hungary,oil mill,Certified
+255,Sojaprotein DOO Becej (Victoria Group),"Industrijska 1, 21220 Bečej, Serbia",45.614386,20.047408,Bečej,Serbia,oil mill,Certified
